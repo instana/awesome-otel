@@ -1,19 +1,19 @@
 # Awesome-otel
 
-A curated list of OpenTelemetry and Instana resources, including blogs and public repos.
+A curated list of Instana OpenTelemetry resources, including blogs, public repos, etc.
 
 ---
 
 ## Table of Contents
 - [Blogs](#blogs)
 - [Public Repos](#public-repos)
-- [Public OTel Materials](#public-otel-materials)
+- [Public OpenTelemetry Materials](#public-openTelemetry-materials)
 
 ---
 
 ## Blogs
 
-Blog posts from the Instana OpenTelemetry team covering OpenTelemetry, IDOT, and related observability-as-code tooling.
+Blog posts contributed by the Instana organization on OpenTelemetry, IDOT, and related observability-as-code tooling.
 
 ### OpenTelemetry
 - **[Monitoring OpenTelemetry Demo Using IBM Instana](https://community.ibm.com/community/user/blogs/ying-mo2/2025/04/06/monitoring-opentelemetry-demo-using-ibm-instana-a)** - Demo and best practices for OpenTelemetry monitoring.
@@ -21,6 +21,7 @@ Blog posts from the Instana OpenTelemetry team covering OpenTelemetry, IDOT, and
 
 ### IDOT
 - **[Introduction to IDOT](https://community.ibm.com/community/user/blogs/rahul-doguparty/2025/07/14/introduction-to-idot)** - Overview of Instana Data Observability Toolkit (IDOT).
+- **[Monitoring z/VM Hypervisor Utilization with Instana’s OpenTelemetry Collector](https://community.ibm.com/community/user/blogs/neha-ghongade/2026/03/04/monitoring-zvm-hypervisor-utilization-with-instana)** - Learn how to monitor z/VM hypervisor metrics using Instana’s OpenTelemetry Collector and create dashboards and alerts.
 
 ### Observability-as-Code
 - **[Unleashing Your Instana to Observe New Technologies](https://community.ibm.com/community/user/blogs/ying-mo2/2025/02/20/unleashing-your-instana-to-observe-new-technologie)** - Observability strategies for new tech.
@@ -34,7 +35,7 @@ Blog posts from the Instana OpenTelemetry team covering OpenTelemetry, IDOT, and
 
 ## Public Repos
 
-Public repositories and registries maintained by the Instana OpenTelemetry team for collectors, integrations, and observability-as-code tooling.
+Public repositories and registries maintained by the Instana organization, covering OpenTelemetry collectors, integration packages, observability-as-code tooling, and other projects.
 
 - **[instana-otel-collector](https://github.com/instana/instana-otel-collector)** - Public repository for Instana Distribution of OpenTelemetry Collector (IDOT).
 - **[observability-as-Code](https://github.com/instana/observability-as-code)** - Public repository for integration package management and related tooling.
@@ -42,5 +43,5 @@ Public repositories and registries maintained by the Instana OpenTelemetry team 
 
 ---
 
-## Public OTel Materials
+## Public OpenTelemetry Materials
 *(To be added - examples: OpenTelemetry official docs, community resources, etc.)*
