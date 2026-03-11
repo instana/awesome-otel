@@ -13,7 +13,7 @@ A curated list of Instana OpenTelemetry resources, including blogs, public repos
 
 ## Blogs
 
-Blog posts contributed by the Instana organization on OpenTelemetry, IDOT, and related observability-as-code tooling.
+Public blog posts authored by IBM Instana on OpenTelemetry.
 
 ### OpenTelemetry
 - **[Monitoring OpenTelemetry Demo Using IBM Instana](https://community.ibm.com/community/user/blogs/ying-mo2/2025/04/06/monitoring-opentelemetry-demo-using-ibm-instana-a)** - Demo and best practices for OpenTelemetry monitoring.
@@ -35,11 +35,12 @@ Blog posts contributed by the Instana organization on OpenTelemetry, IDOT, and r
 
 ## Public Repos
 
-Public repositories and registries maintained by the Instana organization, covering OpenTelemetry collectors, integration packages, observability-as-code tooling, and other projects.
+Public repositories and registries maintained by the IBM Instana, covering OpenTelemetry collectors, integration packages, observability-as-code tooling, and other projects.
 
 - **[instana-otel-collector](https://github.com/instana/instana-otel-collector)** - Public repository for Instana Distribution of OpenTelemetry Collector (IDOT).
 - **[observability-as-Code](https://github.com/instana/observability-as-code)** - Public repository for integration package management and related tooling.
 - **[Central Registry](https://www.npmjs.com/org/instana-integration)** - Central place for officially supported Instana integration packages published by IBM.
+- **[opentelemetry-demo](https://github.com/instana/opentelemetry-demo)** - Microservices-based demo application demonstrating OpenTelemetry instrumentation and observability.
 
 ---
 
