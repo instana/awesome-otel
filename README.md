@@ -18,6 +18,7 @@ Public blog posts authored by IBM Instana on OpenTelemetry.
 ### OpenTelemetry
 - **[Monitoring OpenTelemetry Demo Using IBM Instana](https://community.ibm.com/community/user/blogs/ying-mo2/2025/04/06/monitoring-opentelemetry-demo-using-ibm-instana-a)** - Demo and best practices for OpenTelemetry monitoring.
 - **[GPU Observability With Instana](https://community.ibm.com/community/user/blogs/yanwei-li/2024/06/14/gpu-observability-with-instana)** - Monitor GPU performance and utilization in Instana with NVIDIA DCGM Exporter and OpenTelemetry.
+- **[From GitHub to Instana: Auto-Instrumenting Python on OpenShift with Red Hat Build of OpenTelemetry](https://medium.com/ibm-cloud/from-github-to-instana-auto-instrumenting-python-on-openshift-with-red-hat-build-of-opentelemetry-39e38611e47f?source=friends_link&sk=0404ed207ca4979d9e438e2c58bc48d8)** - End-to-end auto-instrumentation of Python applications on **Red Hat OpenShift** using OpenTelemetry and Instana.
 
 ### IDOT
 - **[Introduction to IDOT](https://community.ibm.com/community/user/blogs/rahul-doguparty/2025/07/14/introduction-to-idot)** - Overview of Instana Data Observability Toolkit (IDOT).
