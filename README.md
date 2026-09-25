@@ -46,4 +46,6 @@ Public repositories and registries maintained by the IBM Instana, covering OpenT
 ---
 
 ## Public OpenTelemetry Materials
-*(To be added - examples: OpenTelemetry official docs, community resources, etc.)*
+
+### IDOT Receiver Examples
+- **[SQL Query Receiver with Microsoft SQL Server](docs/receiver/sql-query-receiver/)** - Tested IDOT example that runs custom SQL against SQL Server and sends the results to Instana as metrics (completed orders, revenue, and active user connections). Includes a full `config.yaml` and a [demo video](docs/receiver/sql-query-receiver/MySql-IDOT.mov).
